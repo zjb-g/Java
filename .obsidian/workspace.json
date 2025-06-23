@@ -11,10 +11,14 @@
             "id": "1c429f456a0d042b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JAVA_note/Java基础/01-语法基础.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "01-语法基础"
             }
           }
         ]
