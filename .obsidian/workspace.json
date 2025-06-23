@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "bdc419ef341058e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "469364db91dfec05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c429f456a0d042b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a60d76df60c65e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fb063621c66ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf227f8bc86affd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1e7609e3bc38c9f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:笔记",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e2ac0b0dee43440b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bc614492fe4687f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07dcf2d19ed53ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ae1b8313f3d3a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8bddff6baa61a038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "2af31d929a782fe2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ad940508e1e9c3a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1c429f456a0d042b",
+  "lastOpenFiles": [
+    "JAVA_Template/复盘模板.md",
+    "JAVA_note/全局索引.md",
+    "JAVA_note/Java框架/05-占位符 1.md",
+    "JAVA_note/高性能与高并发专题/05-占位符 1 1 1 1.md",
+    "JAVA_note/企业级开发专题/05-占位符 1 1 1.md",
+    "JAVA_note/实战与开源项目/05-占位符 1 1.md",
+    "JAVA_note/Java构建与工具/05-占位符 1 1.md",
+    "JAVA_note/数据库专题/05-占位符 1.md",
+    "JAVA_note/Java基础/05-占位符.md",
+    "JAVA_note/Java基础/04-小项目整合.md",
+    "JAVA_note/Java基础/05-小项目整合.md",
+    "JAVA_note/Java基础/03-OOP.md",
+    "JAVA_note/Java基础/02-方法与包.md",
+    "JAVA_note/Java基础/01-语法基础.md",
+    "JAVA_note/Java基础/00-模块概览.md",
+    "JAVA——note/Java基础/00-模块概览.md",
+    "JAVA——note/Java基础",
+    "JAVA——note",
+    "JAVA_note/Java基础",
+    "JAVA_note/未命名.md",
+    "JAVA_Template/全局索引模板.md",
+    "JAVA_Template/主题笔记模板.md",
+    "JAVA_Template/模块概览模板.md",
+    "欢迎.md",
+    "README.md",
+    "JAVA_note/Java基础/Java基础--模块概览.md",
+    "JAVA_note/Java 开发笔记总览.md",
+    "01-基础语法与OOP/02-方法与包.md",
+    "01-基础语法与OOP",
+    "01-基础语法与OOP/01-语法基础.md",
+    "JAVA_note/数据库专题",
+    "JAVA_note/实战与开源项目",
+    "JAVA_note/高性能与高并发专题",
+    "JAVA_note/企业级开发专题",
+    "JAVA_note/Java构建与工具",
+    "JAVA_note/Java框架"
+  ]
+}
